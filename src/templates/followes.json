@@ -1,0 +1,18 @@
+[
+  {
+    'parent': 'akromjon',
+    'followers': [
+      {
+        'id': 11,
+        'last_message': 'Salom Azizhon Qalesan',
+        'last_seen': '12:24:29+05:00',
+        'is_online': true,
+        'face': 'individual',
+        'un_reads_count': 2,
+        'user_name': 'azizjon',
+        'full_name': 'Azizjon Axmadjonov',
+        'image': 'https://localhost:9998/media/1212313.png'
+      }
+    ]
+  }
+]

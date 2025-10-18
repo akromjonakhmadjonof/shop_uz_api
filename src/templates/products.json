@@ -1,0 +1,80 @@
+[
+  {
+    'id': 1,
+    'parent': {
+      'id': 1,
+      'name': 'Одежда & обувь'
+    },
+    'product_code': 1212123456623,
+    'created_date': '2020-08-14T12:19:23.383901',
+    'product': {
+      'name': 'maccofee 3v1',
+      'category': {
+        'id': 0,
+        'name': 'drink'
+      },
+      'status': 'active',
+      'balance': 100,
+      'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt mauris at tellus vehicula, et euismod nunc ornare. Proin pulvinar auctor nisl in volutpat. Maecenas tristique fringilla mauris, accumsan dapibus turpis rutrum eget. Curabitur tincidunt ipsum et nisi aliquet aliquet. Phasellus lacinia urna et metus rhoncus, sed lobortis tellus mollis. Ut vel pretium libero. Aenean ac rutrum ipsum.'
+    },
+    'author': {
+      'full_name': 'Axmadjonov Akromjon',
+      'contact': {
+        'email': 'akromjon@internet.ru',
+        'phone': '+998974464282',
+        'contact_name': 'Axmadjonov Akromjon'
+      }
+    },
+    'pricing': {
+      'sell_price': 100000,
+      'discount_price': 1000,
+      'discount_percent': 10
+    },
+    'measurement': {
+      'name': 'kg',
+      'id': 0
+    },
+    'currency': {
+      'symbol': '$',
+      'name': 'dollar',
+      'id': 0
+    },
+    'images': [
+      {
+        'url': 'image1.png',
+        'type': 'parent'
+      },
+      {
+        'url': 'image1.png',
+        'type': 'child'
+      },
+      {
+        'url': 'image1.png',
+        'type': 'child'
+      },
+      {
+        'url': 'image1.png',
+        'type': 'child'
+      },
+      {
+        'url': 'image1.png',
+        'type': 'child'
+      },
+      {
+        'url': 'image1.png',
+        'type': 'child'
+      },
+      {
+        'url': 'image1.png',
+        'type': 'child'
+      },
+      {
+        'url': 'image1.png',
+        'type': 'child'
+      }
+    ],
+    'rating': {
+      'percent': 10
+    }
+  }
+]

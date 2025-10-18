@@ -1,0 +1,23 @@
+[
+  {
+    'target': {
+      'name': 'Azizjon',
+      'id': 11,
+      'image': 'https://localhost:9998/media/1212313.png'
+    },
+    'me': {
+      'name': 'Akromjon',
+      'id': 11,
+      'image': 'https://localhost:9998/media/1212313.png'
+    },
+    'messages': [
+      {
+        'text': 'Thanks for all for before change list add update wrapper new counter',
+        'entry_time': '12:1231:12',
+        'is_read': true,
+        'is_own': false,
+        'date': '12-141-4'
+      }
+    ]
+  }
+]

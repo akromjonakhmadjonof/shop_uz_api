@@ -1,0 +1,53 @@
+{
+  "name": "shop_uz_api",
+  "version": "1.0.1",
+  "description": "shop uz",
+  "main": "src/index.js",
+  "repository": "https://gitlab.com/developers_uz/shop_uz_api.git",
+  "author": "Akromjon Axmadjonv <akromjon@internet.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.1",
+    "city-state-country": "^1.0.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.2",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "express-fileupload": "^1.2.1",
+    "express-validator": "^6.14.0",
+    "instagram-private-api": "1.45.2",
+    "jimp": "^0.16.1",
+    "jsonwebtoken": "^8.5.1",
+    "loadsh": "^0.0.4",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongodb": "^4.3.0",
+    "mongoose": "^6.1.7",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose-sequence": "^5.3.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15",
+    "password-hash": "^1.2.2",
+    "prop-types": "^15.8.1",
+    "sharp": "^0.30.4",
+    "socket.io": "^4.1.3",
+    "sprintf": "^0.1.5"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "lint": "eslint src/",
+    "fix": "eslint src/ --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "mongoose-paginate-v2": "^1.6.3"
+  }
+}

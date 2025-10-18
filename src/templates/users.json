@@ -1,0 +1,18 @@
+[
+  {
+    'id': 1,
+    'full_name': 'Akromjon Axmadjonov',
+    'email': 'akromjon@internet.ru',
+    'face': 'individual',
+    'phone_number': '+99897712383',
+    'login': {
+      'user_name': '@akromjon',
+      'password': 'blacklord2006'
+    },
+    'social_links': {
+      'facebook': 'facebook.com',
+      'telegram': 'telegram.com'
+    },
+    'settings': {}
+  }
+]
